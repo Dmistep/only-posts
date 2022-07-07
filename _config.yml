@@ -1,0 +1,9 @@
+title: Dmistep Only Posts
+email: dmistep@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Тут только шпаргалки для чтения.
+baseurl: "/only-posts" # the subpath of your site, e.g. /blog
+url: "https://dmistep.github.io"
+
+permalink: /:collection/:year-:month-:day-:title:output_ext
+show_excerpts: true
