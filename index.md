@@ -1,7 +1,5 @@
 ---
-
+layout: default
+title: Просто шпаргалки.
 ---
 
-# Просто посты.
-
-[README](README.md)
