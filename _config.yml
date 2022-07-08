@@ -7,3 +7,10 @@ url: "https://dmistep.github.io"
 
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table
+    bold_every: 5
