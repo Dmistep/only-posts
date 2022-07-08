@@ -9,8 +9,8 @@ permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
 markdown: kramdown
-#kramdown:
- # syntax_highlighter: coderay
+kramdown:
+ syntax_highlighter: rouge
  # syntax_highlighter_opts:
   #  line_numbers: table
    # bold_every: 5
