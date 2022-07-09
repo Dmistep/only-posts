@@ -31,7 +31,7 @@
                             {{ post.title | escape }}
                         </a>
                     </h4>
-                     <span class="">{{ page.categories| capitalize | join: ', ' }}</span>
+                   <p>{{ page.categories | capitalize | join: ', ' }}</p>
                     {%- if site.show_excerpts -%}
                    <p class="flow-text">{{ post.excerpt }} </p>
                     {%- endif -%}
