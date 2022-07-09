@@ -2,7 +2,7 @@
 layout: post
 title:  "Termux-начало"
 #date:   2022-07-04 9:28:13 +0300
-categories: linux
+categories: [linux, Android]
 excerpt: 'Termux — это эмулятор терминала Android и приложение для среды Linux.'
 description: Termux — это эмулятор терминала Android и приложение для среды Linux.
 permalink: /termux-start/
