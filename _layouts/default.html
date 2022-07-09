@@ -26,6 +26,7 @@
                 <li>
                     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                     <span class="post-meta">{{ post.date | date: date_format }}</span>
+                     <p>{{ post.categories | capitalize | join: ', ' }}</p>
                     <h4>
                         <a class="post-link" href="{{ post.url | relative_url }}">
                             {{ post.title | escape }}
@@ -38,7 +39,7 @@
                 </li>
                 {%- endfor -%}
             </ul>
- <p>{{ post.categories | capitalize | join: ', ' }}</p>
+
            <!-- <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p> -->
             {%- endif -%}
 
