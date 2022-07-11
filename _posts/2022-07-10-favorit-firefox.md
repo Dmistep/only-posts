@@ -1,4 +1,5 @@
 --- 
+layout: post
 title: Установка Firefox из билдов Mozilla ( Linux )
 categories:
   -linux
