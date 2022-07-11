@@ -61,7 +61,7 @@ permalink: / favorit-firafox/
 <style type="text/css" media="all">
    body{
        width: 90%;
-       max-width: 800px;
+       max-width: 960px;
        margin: 0 auto;
        font-size:1.2em;
    }
