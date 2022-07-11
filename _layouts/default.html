@@ -27,7 +27,7 @@
                     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                     <span class="post-meta">{{ post.date | date: date_format }}</span>
                     <!-- <p class="post-meta">{{ post.categories | capitalize | join: ', ' }}</p>-->
-                    <p class="post-meta">{{post.categories | escape }}</p>
+                    <p class="post-meta">{{ post.categories | escape }}</p>
                     <h4>
                         <a class="post-link" href="{{ post.url | relative_url }}">
                             {{ post.title | escape }}
