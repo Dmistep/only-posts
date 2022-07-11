@@ -60,6 +60,7 @@ permalink: / favorit-firafox/
        width: 90%;
        max-width: 720px;
        margin: 0 auto;
+       font-size:1em;
    }
    h1,h2,h3,h4{
        color: #192a3d;
