@@ -1,9 +1,8 @@
 --- 
-title: Установка Firefox
+title: Установка Firefox из билдов Mozilla ( Linux )
 permalink: / favorit-firafox/
 ---
 
-# Установка Firefox из билдов Mozilla ( Linux )
 
 Источник: [https://support.mozilla.org](https://support.mozilla.org/ru/kb/ustanovka-firefox-na-linux#w_ustanovka-firefox-iz-bildov-mozilla-dlia-opytnykh-polzovatelei)
 
